@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yousuf-git
+- 👋 Hi, I’m Muhammad Yousuf
 
 - 👀 I’m interested in Problem Solving
 
