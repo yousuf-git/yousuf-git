@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Muhammad Yousuf
+# Hi, I’m Muhammad Yousuf 👋
+
+## 🚀 About Me
 
 - 👀 I’m interested in Problem Solving
 
@@ -9,6 +11,23 @@
 - 😄 Pronouns: Harry
 
 - ⚡ Fun fact: Fun makes it easy to learn
+
+## 🛠 Skills
+
+
+```Java Swing``` 
+```Java AWT```
+```Java Database Connectivity with MySql``` 
+
+```DSA in Java```
+
+```Python basics```
+
+```HTML``` 
+
+```CSS```
+ 
+```Javascript```
 
 ## 📫 How to reach me
 
