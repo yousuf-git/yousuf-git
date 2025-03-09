@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I’m interested in Problem Solving<br><br>👩‍💻 I'm currently working on DSA in Java<br><br>🧠 I'm currently learning Java and Python<br><br>😄 Pronouns: Harry<br><br>⚡ Fun fact: Fun makes it easy to learn
+👀 I’m interested in Problem Solving<br><br>👩‍💻 Currently working on Backend Development<br><br>🧠 Addicted to crafting ideas into reliable code<br><br>😄 Pronouns: Harry<br><br>⚡ Fun fact: The more you explore, the more you know, that the less you know
 
 
 ## 🌐 Socials:
