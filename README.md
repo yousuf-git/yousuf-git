@@ -5,7 +5,7 @@
 
 <!-- HEADER WAVE -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=00ff41,00ff41,00ff41&text=Muhammad%20Yousuf&fontColor=ffffff&fontSize=48&fontAlignY=34&desc=Backend%20Engineer%20%E2%80%A2%20System%20Designer%20%E2%80%A2%20Software%20Developer&descSize=17&descColor=ffffffbb&descAlignY=54&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12&text=Muhammad%20Yousuf&fontColor=ffffff&fontSize=48&fontAlignY=34&desc=Backend%20Engineer%20%E2%80%A2%20System%20Designer%20%E2%80%A2%20Problem%20Solver&descSize=17&descColor=ffffffbb&descAlignY=54&animation=fadeIn" width="100%"/>
 </div>
 
 <!-- ANIMATED TYPING -->
@@ -263,4 +263,4 @@
 <br/>
 
 <!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=00ff41,00ff41,00ff41&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12&section=footer" width="100%"/>
