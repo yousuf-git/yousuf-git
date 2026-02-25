@@ -177,20 +177,20 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yousuf-git&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&ring_color=38BDF8" alt="GitHub Stats"/>
-&nbsp;
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yousuf-git&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&ring_color=38BDF8" alt="GitHub Stats"/> -->
+<!-- &nbsp; -->
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yousuf-git&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<br/><br/>
+<!-- <br/><br/> -->
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousuf-git&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+<!-- <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousuf-git&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/> -->
 
 </div>
 
 <br/>
 
 <!-- TROPHIES -->
-## GitHub Trophies
+## GitHub Contributions 
 
 <div align="center">
 
