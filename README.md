@@ -5,7 +5,7 @@
 
 <!-- HEADER WAVE -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12&text=Muhammad%20Yousuf&fontColor=ffffff&fontSize=48&fontAlignY=34&desc=Backend%20Engineer%20%E2%80%A2%20System%20Designer%20%E2%80%A2%20Problem%20Solver&descSize=17&descColor=ffffffbb&descAlignY=54&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12&text=Muhammad%20Yousuf&fontColor=ffffff&fontSize=48&fontAlignY=34&desc=Software%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20Database%20Designer&descSize=17&descColor=ffffffbb&descAlignY=54&animation=fadeIn" width="100%"/>
 </div>
 
 <!-- ANIMATED TYPING -->
